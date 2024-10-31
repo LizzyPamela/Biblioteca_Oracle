@@ -1,0 +1,21 @@
+
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('1', '1', '1');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('2', '2', '2');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('3', '3', '3');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('4', '4', '4');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('5', '5', '1');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('6', '6', '2');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('7', '7', '3');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('8', '8', '4');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('9', '9', '1');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('10', '10', '2');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('11', '11', '3');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('12', '12', '4');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('13', '13', '1');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('14', '14', '2');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('15', '15', '3');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('16', '16', '4');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('17', '17', '1');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('18', '18', '2');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('19', '19', '3');
+INSERT INTO empleado (id, persona_id, cargo_id) VALUES ('20', '20', '4');
