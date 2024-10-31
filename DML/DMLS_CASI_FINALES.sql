@@ -1249,7 +1249,7 @@ INSERT INTO libroComprado (id, precio, libro_id) VALUES ('228', '190', '159');
 INSERT INTO libroComprado (id, precio, libro_id) VALUES ('229', '190', '160');
 INSERT INTO libroComprado (id, precio, libro_id) VALUES ('230', '18', '161');
 
----horario Biblioteca--------------------------------------------------------------------------------------
+---de aqui para abajo es de jostin--------------------------------------------------------------------------------------
 
 
 
