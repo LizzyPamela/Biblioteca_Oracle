@@ -218,8 +218,8 @@ Promt ./Triggers/Triggers.sql
 
 
 Promt ***usuario***
-Promt   ./USUARIOYROL/userRol.sql
-@       ./USUARIOYROL/userRol.sql
+Promt   ./DML/userRol.sql
+@       ./DML/userRol.sql
 
 COMMIT;
 
